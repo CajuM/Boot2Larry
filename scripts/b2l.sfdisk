@@ -1,0 +1,6 @@
+label: dos
+label-id: 0x00000000
+device: b2l.img
+unit: sectors
+
+b2l.img1 : start=           63, size=       @P1SIZE@, type=4, bootable
